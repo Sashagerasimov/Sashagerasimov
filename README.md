@@ -1,4 +1,4 @@
-### Hi there, I'm [Alexander Gerasimov][website] 👋
+## Hi there, I'm [Alexander Gerasimov][website] 👋
 
 - 🔭 I’m studying Business Information Systems.
 - 🌱 I’m always eager to learn something new.
@@ -7,15 +7,16 @@
 ---
 
 ### Connect with me:
-
+<!-- CONNECT-LIST:END -->
 [<img align="left" alt="AlexanderGerasimov.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sashagerasimov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sg.jpg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</br>
+<!-- CONNECT-LIST:END -->
+
 ---
 
 ### Languages and Tools:
-
+<!-- TOOLS-LIST:END -->
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Flutter" width="26px" src="https://flutter.github.io/assets-for-api-docs/assets/tests/colors/tf.png" />
@@ -32,11 +33,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<!-- TOOLs-LIST:END -->
 
-</br>
 ---
 
-<img align="center" alt="Sashagerasimov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sashagerasimov&show_icons=true&hide_border=true" />
+<img align="left" alt="Sashagerasimov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sashagerasimov&show_icons=true&hide_border=true" />
 
 [website]: https://alexandergerasimov.com.au
 [instagram]: https://instagram.com/sgjpg
