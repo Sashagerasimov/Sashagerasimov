@@ -4,8 +4,6 @@
 - 🌱 I’m always eager to learn something new.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
----
-
 ### Connect with me:
 <!-- CONNECT-LIST:END -->
 [<img align="left" alt="AlexanderGerasimov.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,9 +12,6 @@
 <!-- CONNECT-LIST:END -->
 
 <br />
-<br />
-
----
 
 ### Languages and Tools:
 <!-- TOOLS-LIST:END -->
