@@ -1,8 +1,8 @@
 ## Hi there, I'm [Alexander Gerasimov][website] 👋
 
-- 🔭⠀I’m studying Business Information Systems.
+- 🔭⠀Working as a security consultant.
 - 🌱⠀I’m always eager to learn something new.
-- 🥅⠀2021 Goals: Contribute more to Open Source projects.
+- 🥅⠀2023 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 <!-- CONNECT-LIST:END -->
